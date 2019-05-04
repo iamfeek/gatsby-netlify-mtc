@@ -1,7 +1,6 @@
 {
   "name": "gatsby-netlify-cms",
   "description": "Milestone project for MTC workshop",
-  "version": "1.0",
   "author": "Syafiq Hanafee",
   "dependencies": {
     "bulma": "^0.7.0",
